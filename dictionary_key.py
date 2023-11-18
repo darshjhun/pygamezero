@@ -1,0 +1,3 @@
+WIDTH = 970
+HEIGHT = 590
+
